@@ -97,7 +97,7 @@ Use Case Diagrams are **behavioral diagrams in UML** that visually represent int
 6. **Useful for Testing** – Provides a foundation for creating test cases.  
 
 📌 Example Use Case Diagram:  
-![Use Case Diagram](https://imgur.com/a/P8nptRM)  
+![Use Case Diagram](https://github.com/code-captain18/requirement-analysis/blob/main/alx-booking-uc.png)  
 
 ---
 
